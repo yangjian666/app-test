@@ -1,0 +1,11 @@
+.container{
+  display: inline-flex;
+}
+.demo-one{
+  width: 100px;
+  background-color: #ccc;
+  padding: 5px 0;
+}
+.demo-tow{
+  width: 100px;
+}
