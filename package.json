@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "main": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "jade": "*"
+  },
+  "devDependencies": {},
+  "engines": [
+    "node >=0.8.14"
+  ],
+  "scripts": {
+    "test": "make test"
+  }
+}
