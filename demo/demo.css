@@ -1,0 +1,37 @@
+.wrap{
+  margin: 0 auto;
+}
+.edit-menu{
+  text-align: center;
+}
+.form-control{
+  display: inline-flex;
+  position: relative;
+  height: 30px;
+  width: 15%;
+}
+.form-input{
+  padding: 4px 4px;
+  width: 120px;
+}
+.icon{
+  font-size: 16px;
+  color : #666;
+  padding: 4px 4px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+.button{
+  width: 60px;
+  background-color: #ccc;
+}
+.up{
+  position: absolute;
+  top: 0;
+  height: 50%
+}
+.down{
+  position: absolute;
+  bottom: 0;
+  height: 50%;
+}
