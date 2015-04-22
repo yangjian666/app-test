@@ -48,7 +48,7 @@ http.createServer(function (req, res) {
 	});
 
 
-  console.log(urlInfo);
+  //console.log(urlInfo);
 
 /*
   var hello = new hellow();
